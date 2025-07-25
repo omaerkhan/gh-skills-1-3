@@ -1,5 +1,6 @@
 ---
 title: Test Site
+layout: home
 ---
 
 # Home
