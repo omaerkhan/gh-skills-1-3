@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Welcome to my test blog"
 date: 2025-12-31
 ---
